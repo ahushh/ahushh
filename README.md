@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahushh)](https://github.com/ahushh/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahushh)](https://github.com/ahushh/github-readme-stats)
+
 <!--
 **ahushh/ahushh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
