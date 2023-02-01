@@ -1,5 +1,6 @@
 ### Be carefull what you wish for 🌚
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/ahushh)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahushh)](https://github.com/ahushh/github-readme-stats)
 
 <!--
